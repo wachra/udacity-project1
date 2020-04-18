@@ -2,7 +2,7 @@
 ![Grafik1](https://i.imgur.com/IDcKI8N.png)
 
 ## Which programming languages have become more popular within the last 5 years?
-![Grafik2](https://i.imgur.com/BNaMohM.png)
+![Grafik2](https://i.imgur.com/oxcyxsd.png)
 
 ### In 2014 wurden andere Fragen gestellt als in 2019
 ### In 2014 wurden die Programmiersprachen noch vorgegeben
