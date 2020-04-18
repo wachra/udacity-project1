@@ -11,7 +11,7 @@
 ![Grafik3](https://i.imgur.com/NXf3m87.png)
 
 ## English Europe non-English speaking
-![Grafik4](https://i.imgur.com/kLLIPJJ.png)
+![Grafik4](https://i.imgur.com/OoYg7ua.png)
 
 
 You can use the [editor on GitHub](https://github.com/wachra/udacity-project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
