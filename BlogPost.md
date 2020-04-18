@@ -2,12 +2,17 @@
 ![Grafik1](https://i.imgur.com/IDcKI8N.png)
 
 ## Which programming languages have become more popular within the last 5 years?
-
+![Grafik2](https://i.imgur.com/BNaMohM.png)
 
 ### In 2014 wurden andere Fragen gestellt als in 2019
 ### In 2014 wurden die Programmiersprachen noch vorgegeben
 
 ## Are there age differences regarding remote working?
+![Grafik3](https://i.imgur.com/NXf3m87.png)
+
+## English Europe non-English speaking
+![Grafik4](https://i.imgur.com/kLLIPJJ.png)
+
 
 You can use the [editor on GitHub](https://github.com/wachra/udacity-project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
