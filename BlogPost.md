@@ -1,8 +1,14 @@
-## In 2014 wurden andere Fragen gestellt als in 2019
-## In 2014 wurden die Programmiersprachen noch vorgegeben
+# Who are these people that answer your questions on Stackoverflow?
+![Grafik1](https://i.imgur.com/IDcKI8N.png)
 
-## Welcome to GitHub Pages
-![bla bla](https://i.imgur.com/IDcKI8N.png)
+## Which programming languages have become more popular within the last 5 years?
+
+
+### In 2014 wurden andere Fragen gestellt als in 2019
+### In 2014 wurden die Programmiersprachen noch vorgegeben
+
+## Are there age differences regarding remote working?
+
 You can use the [editor on GitHub](https://github.com/wachra/udacity-project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
