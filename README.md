@@ -8,8 +8,8 @@ This Repository contains the files for Udacity's Data Science Nanodegree.
 - [Matplotlib](https://pypi.org/project/matplotlib/)
 
 ### 2. File Descriptions
-- *BlogPost.md*: A blog post about my finding of Stackoverflow's surveys
-- *StackOverFlow_Comparison.ipynb*: A Jupyter Notebook that keeps my calculations and results
+- **BlogPost.md**: A blog post about my finding of Stackoverflow's surveys
+- **StackOverFlow_Comparison.ipynb**: A Jupyter Notebook that keeps my calculations and results
 
 ### 3. Acknowledgements
 Thanks to [Stackoverflow](https://stackoverflow.com/) who made the survey results freely [availabe](https://insights.stackoverflow.com/survey) and the survey participants.
