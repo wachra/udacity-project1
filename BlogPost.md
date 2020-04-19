@@ -1,18 +1,30 @@
 # Who are these people that answer your questions on Stackoverflow?
 ![Grafik1](https://i.imgur.com/IDcKI8N.png)
 
+## Introduction
+
+### In 2014 wurden andere Fragen gestellt als in 2019
+
 ## Which programming languages have become more popular within the last 5 years?
 ![Grafik2](https://i.imgur.com/oxcyxsd.png)
 
-### In 2014 wurden andere Fragen gestellt als in 2019
-### In 2014 wurden die Programmiersprachen noch vorgegeben
+In 2014 wurden die Programmiersprachen noch vorgegeben
 
-## Are there age differences regarding remote working?
+## Do experienced developers tend to work from home and how has this changed over the last 5 years?
 ![Grafik3](https://i.imgur.com/NXf3m87.png)
 
-## English Europe non-English speaking
+## Is Stackoverflow less used in European countries where the percentage of English language skills is considered lower?
 ![Grafik4](https://i.imgur.com/OoYg7ua.png)
 
+Annahme: Die Zahl der Studienteilnehmer pro Land ist proportional zu den Besuchern von Stackoverflow, die nicht an der Studie teilgenommen haben.
+Ein Erhöhen des Englischniveaus würde evtl mit besseren Programmierfähigkeiten einhergehen bzw. zu schnelleren Antwortzeiten
+
+## Conclusion
+In this article, we took a look at XXXXXXXX according to Stack Overflow 2017 survey data.
+
+1. asda
+2. sdf
+3. asffsa
 
 You can use the [editor on GitHub](https://github.com/wachra/udacity-project1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
