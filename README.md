@@ -2,7 +2,7 @@
 This Repository contains the files for Udacity's Data Science Nanodegree Project 1.
 
 ### 1. Motivation  
-Since I am a technical student who often looks for advice on Stackoverflow I would like to learn a little more about the users. Stackoverflow does not provide private communication between users, so little is known about them.
+Since I am a technical student who often looks for advice on Stackoverflow I would like to learn a little more about the users. Stackoverflow does not allow private communication between users thus no personal conversations between users take place. The goal of this Project is to get to know the users of Stackoverflow a little better.
 
 ### 2. Installations
 - [Python 3.X](https://www.python.org/downloads/)
