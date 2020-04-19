@@ -9,11 +9,9 @@ As a student, one constantly asks oneself whether the acquired knowledge is also
 
 ![Grafik2](https://i.imgur.com/oxcyxsd.png)  
 
-It is obvious that the languages Python and Javascript have gained significantly in popularity among Stackoverflow users over the last five years with an increase of 18.7% and 8.9% respectively. Among the losers are the programming languages C# and objective C, which have a minus of 6% and 5.7%. So if you are looking for a seminal programming language for the next few years, Python or Javascript may your best bet.
+It is obvious that the languages *Python* and *Javascript* have gained significantly in popularity among Stackoverflow users over the last five years with an increase of 18.7% and 8.9% respectively. Among the losers are the programming languages *C#* and *Objective C*, which have a minus of 6% and 5.7%. So if you are looking for a seminal programming language for the next few years, *Python* or *Javascript* may your best bet.  
 
- 
-
-In 2014 wurden die Programmiersprachen noch vorgegeben
+*Note: The surveys of 2014 and 2019 differ considerably in terms of questions and answer possibilities. Since the 2014 survey used the 11 programming languages listed here as the answer choice, these were also only compared with the values from 2019.*
 
 ## Do experienced developers tend to work from home and how has this changed over the last 5 years?
 ![Grafik3](https://i.imgur.com/NXf3m87.png)
