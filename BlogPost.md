@@ -21,14 +21,18 @@ In times of COVID-19 many companies rely on home work of their employees. But ho
 The graph shows that the share of people under thirty who do not rely on distance work is actually higher than for older people. The proportion of those who work almost exclusively at a distance also appears to increase with age, with the exception of those under 20 years of age. It is interesting to note that a polarizing effect has been observed over the last five years. The number of those who either never or work completely at a remote location has increased.   
 
 ## Is Stackoverflow less used in European countries where the percentage of English language skills is considered lower?
-![Grafik4](https://i.imgur.com/OoYg7ua.png)
+Finally, it will be investigated whether the number of users on Stackoverflow in European non-English speaking countries depends on their knowledge of English. The ten countries with the absolute number of participants were used for this purpose. To ensure comparability between the countries, the number of participants in each country was set in relation to the number of inhabitants. The English level of the respective countries was taken from [this website](https://www.ef.com/epi/).  
 
-Annahme: Die Zahl der Studienteilnehmer pro Land ist proportional zu den Besuchern von Stackoverflow, die nicht an der Studie teilgenommen haben.
-Ein Erhöhen des Englischniveaus würde evtl mit besseren Programmierfähigkeiten einhergehen bzw. zu schnelleren Antwortzeiten
+![Grafik4](https://i.imgur.com/8aQ70EM.png)  
+
+As can be seen, the number of users from countries whose English skills are considered higher is more frequent (in relation to the respective number of inhabitants). One could conclude from this that the information on Stackoverflow is not accessible to those whose English skills are considered lower. Improving school education or integrating a translator into Stackoverflow could be actions to address this issue.   
+
+*Assumption: The author assumes that the number of study participants per country is proportional to the number of Stackoverflow visitors who did not participate in the study. Furthermore, he assumes that the availability of the internet is the same in all 10 countries compared and that the share of developers in each country is the same.*
+
 
 ## Conclusion
-In this article, we took a look at XXXXXXXX according to Stack Overflow 2017 survey data.
+In this article, we took a look at the 2014 and 2019 survey data to get an insight into the user base of Stackoverflow. 
 
-1. asda
-2. sdf
-3. asffsa
+1. *Python* and *Javascript* are the most rapidly growing programming languages.
+2. Older developers work from home more often than younger ones.
+3. The better the English level in a country, the higher the probability they will visit Stackoverflow
