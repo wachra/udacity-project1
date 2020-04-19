@@ -14,7 +14,11 @@ It is obvious that the languages *Python* and *Javascript* have gained significa
 *Note: The surveys of 2014 and 2019 differ considerably in terms of questions and answer possibilities. Since the 2014 survey used the 11 programming languages listed here as the answer choice, these were also only compared with the values from 2019.*
 
 ## Do experienced developers tend to work from home and how has this changed over the last 5 years?
-![Grafik3](https://i.imgur.com/NXf3m87.png)
+In times of COVID-19 many companies rely on home work of their employees. But how high was this rate before that time and has it changed within the last five years? Furthermore it shall be investigated whether there are differences regarding age. For example, one might think that experienced developers tend to work from home because their boss has known them longer or they have family to look after in parallel to their work. 
+
+![Grafik3](https://i.imgur.com/NXf3m87.png)  
+
+The graph shows that the share of people under thirty who do not rely on distance work is actually higher than for older people. The proportion of those who work almost exclusively at a distance also appears to increase with age, with the exception of those under 20 years of age. It is interesting to note that a polarizing effect has been observed over the last five years. The number of those who either never or work completely at a remote location has increased.   
 
 ## Is Stackoverflow less used in European countries where the percentage of English language skills is considered lower?
 ![Grafik4](https://i.imgur.com/OoYg7ua.png)
